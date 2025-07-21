@@ -35,6 +35,7 @@ dependencies:
   url_launcher: ^6.3.1
   get: ^4.7.2
   google_fonts: ^6.1.0
+  flutter_dotenv: ^5.2.1
 
 dev_dependencies:
   flutter_test:
